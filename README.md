@@ -10,7 +10,8 @@ __The picture used is shown below and goal is to seperate cheetah from its backg
 ![Aaron Swartz](https://raw.githubusercontent.com/jiangdada1221/ECE271A-statistical-learning/master/cheetah.jpg)
 
 ## Model 1 - Naive Bayesian
-![Aaron Swartz](https://raw.githubusercontent.com/jiangdada1221/ECE271A-statistical-learning/master/naiveBayesian/prediction.jpg)
+<img src="https://raw.githubusercontent.com/jiangdada1221/ECE271A-statistical-learning/master/naiveBayesian/prediction.jpg" width = "300" height = "200" alt="cheetah" align=center />
+
 __The error of this model is 0.171__
 
 ## Model 2 - Gaussian classifier
@@ -27,3 +28,4 @@ __In this model, I implement EM algorithm the estimate parameters. Then I try di
 __The error of this model is 0.0476__
 
 ![Aaron Swartz](https://raw.githubusercontent.com/jiangdada1221/ECE271A-statistical-learning/master/GaussianModel/prediction.jpg)
+![Aaron Swartz](https://raw.githubusercontent.com/jiangdada1221/ECE271A-statistical-learning/master/naiveBayesian/prediction.jpg)
