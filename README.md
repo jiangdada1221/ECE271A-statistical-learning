@@ -7,8 +7,9 @@ Use different methods and probability models to separate cheetah from its backgr
 - __Gaussian Mixture Model with BDR and EM algorithm__
 
 __The picture used is shown below and goal is to seperate cheetah from its background.__
-![Aaron Swartz](https://raw.githubusercontent.com/jiangdada1221/ECE271A-statistical-learning/master/cheetah.jpg)
-
+<div align=center>
+ <img src="https://raw.githubusercontent.com/jiangdada1221/ECE271A-statistical-learning/master/cheetah.jpg" width = "300" height = "200" alt="cheetah" align=center /> 
+</div><br><br>
 ## Model 1 - Naive Bayesian
 ![Aaron Swartz](https://raw.githubusercontent.com/jiangdada1221/ECE271A-statistical-learning/master/naiveBayesian/prediction.jpg)
 __The error of this model is 0.171__
@@ -16,7 +17,7 @@ __The error of this model is 0.171__
 ## Model 2 - Gaussian classifier
 <div align=center>
  <img src="https://raw.githubusercontent.com/jiangdada1221/ECE271A-statistical-learning/master/GaussianModel/prediction.jpg" width = "300" height = "200" alt="cheetah" align=center /> 
-</div>
+</div><br><br>
 
 - __The feature dimensions are 64, I pick the 8 best dimension by the extent of separation of the mean in background and foreground.__
 
