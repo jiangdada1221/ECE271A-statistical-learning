@@ -8,8 +8,9 @@ Use different methods and probability models to separate cheetah from its backgr
 
 __The picture used is shown below and goal is to seperate cheetah from its background.__
 <div align=center>
- <img src="https://raw.githubusercontent.com/jiangdada1221/ECE271A-statistical-learning/master/cheetah.jpg" width = "300" height = "200" alt="cheetah" align=center /> 
+ <img src="https://raw.githubusercontent.com/jiangdada1221/ECE271A-statistical-learning/master/cheetah.jpg" width = "500" height = "500" alt="cheetah" align=center /> 
 </div><br><br>
+
 ## Model 1 - Naive Bayesian
 ![Aaron Swartz](https://raw.githubusercontent.com/jiangdada1221/ECE271A-statistical-learning/master/naiveBayesian/prediction.jpg)
 __The error of this model is 0.171__
