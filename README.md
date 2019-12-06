@@ -26,6 +26,6 @@ __The error of this model is 0.0621__
 
 ## Model 3 - GMM 
 ![Aaron Swartz](https://raw.githubusercontent.com/jiangdada1221/ECE271A-statistical-learning/master/GMM_EM/prediction.jpg)
-__In this model, I implement EM algorithm the estimate parameters. Then I try different number of components and dimensions. At last pick the best parameters to make prediction.__
+- __In this model, I implement EM algorithm the estimate parameters. Then I try different number of components and dimensions. At last pick the best parameters to make prediction.__
 
 __The error of this model is 0.0476__
