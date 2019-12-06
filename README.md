@@ -11,11 +11,12 @@ __The picture used is shown below and goal is to seperate cheetah from its backg
 
 ## Model 1 - Naive Bayesian
 ![Aaron Swartz](https://raw.githubusercontent.com/jiangdada1221/ECE271A-statistical-learning/master/naiveBayesian/prediction.jpg)
-__The error of this model is 0.171
+__The error of this model is 0.171__
 
 ## Model 2 - Gaussian classifier
 ![Aaron Swartz](https://raw.githubusercontent.com/jiangdada1221/ECE271A-statistical-learning/master/GaussianModel/prediction.jpg)
 - __The feature dimensions are 64, I pick the 8 best dimension by the extent of separation of the mean in background and foreground.__
+
 __The error of this model is 0.0621__
 
 ## Model 3 - GMM 
