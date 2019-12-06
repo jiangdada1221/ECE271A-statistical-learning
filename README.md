@@ -16,7 +16,7 @@ __The error of this model is 0.171__
 ## Model 2 - Gaussian classifier
 <div align=center>
  <img src="https://raw.githubusercontent.com/jiangdada1221/ECE271A-statistical-learning/master/GaussianModel/prediction.jpg" width = "300" height = "200" alt="cheetah" align=center /> 
-<\div>
+</div>
 
 - __The feature dimensions are 64, I pick the 8 best dimension by the extent of separation of the mean in background and foreground.__
 
